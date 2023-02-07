@@ -15,6 +15,7 @@
 		E1D2DF42297D4A17007876F1 /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1D2DF41297D4A17007876F1 /* Location.swift */; };
 		E1D2DF44297D4AB4007876F1 /* LocationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1D2DF43297D4AB4007876F1 /* LocationsView.swift */; };
 		E1E7BCF02983715B005E1C85 /* LocationsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E7BCEF2983715A005E1C85 /* LocationsViewModel.swift */; };
+		E81857A629923BE50020C085 /* LocationListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81857A529923BE50020C085 /* LocationListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		E1D2DF41297D4A17007876F1 /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
 		E1D2DF43297D4AB4007876F1 /* LocationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsView.swift; sourceTree = "<group>"; };
 		E1E7BCEF2983715A005E1C85 /* LocationsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsViewModel.swift; sourceTree = "<group>"; };
+		E81857A529923BE50020C085 /* LocationListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 			isa = PBXGroup;
 			children = (
 				E1D2DF43297D4AB4007876F1 /* LocationsView.swift */,
+				E81857A529923BE50020C085 /* LocationListView.swift */,
 			);
 			path = VIews;
 			sourceTree = "<group>";
@@ -185,6 +188,7 @@
 				E1E7BCF02983715B005E1C85 /* LocationsViewModel.swift in Sources */,
 				E1895BE4297D474200DD1654 /* MapsAppApp.swift in Sources */,
 				E1D2DF44297D4AB4007876F1 /* LocationsView.swift in Sources */,
+				E81857A629923BE50020C085 /* LocationListView.swift in Sources */,
 				E1D2DF42297D4A17007876F1 /* Location.swift in Sources */,
 				E1D2DF3E297D49E6007876F1 /* LocationsDataService.swift in Sources */,
 			);
